@@ -1,0 +1,15 @@
+.exhibit {
+  flex: 1 0 340px;
+  padding: 1em;
+  margin: 1em;
+  text-align: center;
+  background-color: var(--col-primary-light);
+  box-shadow: 0.25em 0.25em 1em lightgray;
+}
+
+.exhibit-name {
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+
