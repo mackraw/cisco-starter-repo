@@ -5,6 +5,7 @@
   text-align: center;
   background-color: var(--col-primary-light);
   box-shadow: 0.25em 0.25em 1em lightgray;
+  border-radius: 0.25em;
 }
 
 .exhibit-name {
@@ -12,4 +13,6 @@
   font-weight: 600;
 }
 
-
+.exhibit-content {
+  margin-top: 1em;
+}
